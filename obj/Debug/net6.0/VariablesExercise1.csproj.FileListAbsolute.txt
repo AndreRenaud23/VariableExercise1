@@ -1,0 +1,15 @@
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.csproj.AssemblyReference.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.AssemblyInfoInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.AssemblyInfo.cs
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\bin\Debug\net6.0\VariablesExercise1.exe
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\bin\Debug\net6.0\VariablesExercise1.deps.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\bin\Debug\net6.0\VariablesExercise1.runtimeconfig.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\bin\Debug\net6.0\VariablesExercise1.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\bin\Debug\net6.0\VariablesExercise1.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\refint\VariablesExercise1.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\VariablesExercise1.genruntimeconfig.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\VariablesExercise1\VariablesExercise1\obj\Debug\net6.0\ref\VariablesExercise1.dll
